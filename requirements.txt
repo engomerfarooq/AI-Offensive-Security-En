@@ -1,0 +1,7 @@
+tensorflow
+torch
+torchvision
+scikit-learn
+spacy
+requests
+pandas
